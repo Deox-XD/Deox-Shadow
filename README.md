@@ -372,13 +372,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🔥 "In the shadows, we find the truth" 🔥**
 
-<br>
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/deox?style=social)](https://github.com/yourusername/deox/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/deox?style=social)](https://github.com/yourusername/deox/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/yourusername/deox?style=social)](https://github.com/yourusername/deox/watchers)
-
-<br>
 
 ⭐ **Star this repository if you found it interesting!** ⭐
 
